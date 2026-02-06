@@ -128,10 +128,10 @@ export default function Home() {
             </div>
             <div className="bg-[#ebe8e3] p-4 flex flex-col">
               <p className="text-xs uppercase tracking-wider text-black mb-4 font-[family-name:var(--font-geist-mono)]">
-                If you're starting something new, raising money, or running a business - but your name isn't right - this is for you. You get the name. You build.
+                If you&apos;re starting something new, raising money, or running a business - but your name isn&apos;t right - this is for you. You get the name. You build.
               </p>
               <p className="text-xs uppercase tracking-wider text-black mb-6 font-[family-name:var(--font-geist-mono)]">
-                If it's a match, you get the name. You build.
+                If it&apos;s a match, you get the name. You build.
               </p>
               <a href="#" className="button bg-black text-white px-6 py-3 text-xs uppercase tracking-wider inline-block w-fit font-[family-name:var(--font-geist-mono)] mb-8">
                 see available domains
@@ -163,8 +163,8 @@ export default function Home() {
             </div>
             <div className="bg-[#ebe8e3] p-4">
               {/* top100.com */}
-              <div className="right_big_list_item border-b border-black/20 pb-4 mb-4">
-                <div className="flex justify-between items-center mb-2">
+              <div className="right_big_list_item border-t border-black mb-4">
+                <div className="flex justify-between items-center py-2 border-b border-black">
                   <a href="https://top100.com" target="_blank" className="domain_link text-xs uppercase tracking-wider text-black font-[family-name:var(--font-geist-mono)]">
                     top100.com
                   </a>
@@ -180,7 +180,7 @@ export default function Home() {
                     </div>
                     <span className="text-sm text-black font-[family-name:var(--font-geist-mono)]">$700.000</span>
                   </div>
-                  <div className="border-l border-black/20 pl-4">
+                  <div className="border-l border-black pl-4">
                     <span className="text-[10px] uppercase tracking-wider text-black/60 font-[family-name:var(--font-geist-mono)]">subscription (first year)</span>
                     <span className="text-sm text-black font-[family-name:var(--font-geist-mono)] block">$7.700/month</span>
                   </div>
@@ -188,8 +188,8 @@ export default function Home() {
               </div>
 
               {/* effect.com */}
-              <div className="right_big_list_item border-b border-black/20 pb-4 mb-4">
-                <div className="flex justify-between items-center mb-2">
+              <div className="right_big_list_item border-t border-black mb-4">
+                <div className="flex justify-between items-center py-2 border-b border-black">
                   <a href="https://effect.com" target="_blank" className="domain_link text-xs uppercase tracking-wider text-black font-[family-name:var(--font-geist-mono)]">
                     effect.com
                   </a>
@@ -205,7 +205,7 @@ export default function Home() {
                     </div>
                     <span className="text-sm text-black font-[family-name:var(--font-geist-mono)]">$700.000</span>
                   </div>
-                  <div className="border-l border-black/20 pl-4">
+                  <div className="border-l border-black pl-4">
                     <span className="text-[10px] uppercase tracking-wider text-black/60 font-[family-name:var(--font-geist-mono)]">subscription (first year)</span>
                     <span className="text-sm text-black font-[family-name:var(--font-geist-mono)] block">$7.700/month</span>
                   </div>
@@ -213,8 +213,8 @@ export default function Home() {
               </div>
 
               {/* medclinic.com */}
-              <div className="right_big_list_item border-b border-black/20 pb-4 mb-4">
-                <div className="flex justify-between items-center mb-2">
+              <div className="right_big_list_item border-t border-black mb-4">
+                <div className="flex justify-between items-center py-2 border-b border-black">
                   <a href="https://medclinic.com" target="_blank" className="domain_link text-xs uppercase tracking-wider text-black font-[family-name:var(--font-geist-mono)]">
                     medclinic.com
                   </a>
@@ -230,7 +230,7 @@ export default function Home() {
                     </div>
                     <span className="text-sm text-black font-[family-name:var(--font-geist-mono)]">$300.000</span>
                   </div>
-                  <div className="border-l border-black/20 pl-4">
+                  <div className="border-l border-black pl-4">
                     <span className="text-[10px] uppercase tracking-wider text-black/60 font-[family-name:var(--font-geist-mono)]">subscription (first year)</span>
                     <span className="text-sm text-black font-[family-name:var(--font-geist-mono)] block">$3.600/month</span>
                   </div>
@@ -238,8 +238,8 @@ export default function Home() {
               </div>
 
               {/* people.net */}
-              <div className="right_big_list_item border-b border-black/20 pb-4 mb-4">
-                <div className="flex justify-between items-center mb-2">
+              <div className="right_big_list_item border-t border-black mb-4">
+                <div className="flex justify-between items-center py-2 border-b border-black">
                   <a href="https://people.net" target="_blank" className="domain_link text-xs uppercase tracking-wider text-black font-[family-name:var(--font-geist-mono)]">
                     people.net
                   </a>
@@ -255,7 +255,7 @@ export default function Home() {
                     </div>
                     <span className="text-sm text-black font-[family-name:var(--font-geist-mono)]">$300.000</span>
                   </div>
-                  <div className="border-l border-black/20 pl-4">
+                  <div className="border-l border-black pl-4">
                     <span className="text-[10px] uppercase tracking-wider text-black/60 font-[family-name:var(--font-geist-mono)]">subscription (first year)</span>
                     <span className="text-sm text-black font-[family-name:var(--font-geist-mono)] block">$3.600/month</span>
                   </div>
@@ -263,8 +263,8 @@ export default function Home() {
               </div>
 
               {/* shows.net */}
-              <div className="right_big_list_item border-b border-black/20 pb-4 mb-4">
-                <div className="flex justify-between items-center mb-2">
+              <div className="right_big_list_item border-t border-black mb-4">
+                <div className="flex justify-between items-center py-2 border-b border-black">
                   <a href="https://shows.net" target="_blank" className="domain_link text-xs uppercase tracking-wider text-black font-[family-name:var(--font-geist-mono)]">
                     shows.net
                   </a>
@@ -280,7 +280,7 @@ export default function Home() {
                     </div>
                     <span className="text-sm text-black font-[family-name:var(--font-geist-mono)]">$100.000</span>
                   </div>
-                  <div className="border-l border-black/20 pl-4">
+                  <div className="border-l border-black pl-4">
                     <span className="text-[10px] uppercase tracking-wider text-black/60 font-[family-name:var(--font-geist-mono)]">subscription (first year)</span>
                     <span className="text-sm text-black font-[family-name:var(--font-geist-mono)] block">$1.300/month</span>
                   </div>
@@ -289,7 +289,7 @@ export default function Home() {
 
               {/* account.net */}
               <div className="right_big_list_item">
-                <div className="flex justify-between items-center mb-2">
+                <div className="flex justify-between items-center mb-2 pt-2">
                   <a href="https://account.net" target="_blank" className="domain_link text-xs uppercase tracking-wider text-black font-[family-name:var(--font-geist-mono)]">
                     account.net
                   </a>
@@ -305,7 +305,7 @@ export default function Home() {
                     </div>
                     <span className="text-sm text-black font-[family-name:var(--font-geist-mono)]">$100.000</span>
                   </div>
-                  <div className="border-l border-black/20 pl-4">
+                  <div className="border-l border-black pl-4">
                     <span className="text-[10px] uppercase tracking-wider text-black/60 font-[family-name:var(--font-geist-mono)]">subscription (first year)</span>
                     <span className="text-sm text-black font-[family-name:var(--font-geist-mono)] block">$1.300/month</span>
                   </div>
@@ -323,8 +323,8 @@ export default function Home() {
             </div>
             <div className="bg-[#ebe8e3] p-4">
               {/* cels.com */}
-              <div className="right_big_list_item border-b border-black/20 pb-4 mb-4">
-                <div className="flex justify-between items-center mb-2">
+              <div className="right_big_list_item border-t border-black mb-4">
+                <div className="flex justify-between items-center py-2 border-b border-black">
                   <a href="https://cels.com" target="_blank" className="domain_link text-xs uppercase tracking-wider text-black font-[family-name:var(--font-geist-mono)]">
                     cels.com
                   </a>
@@ -340,7 +340,7 @@ export default function Home() {
                     </div>
                     <span className="text-sm text-black font-[family-name:var(--font-geist-mono)]">$70.000</span>
                   </div>
-                  <div className="border-l border-black/20 pl-4">
+                  <div className="border-l border-black pl-4">
                     <span className="text-[10px] uppercase tracking-wider text-black/60 font-[family-name:var(--font-geist-mono)]">subscription (first year)</span>
                     <span className="text-sm text-black font-[family-name:var(--font-geist-mono)] block">$950/month</span>
                   </div>
@@ -348,8 +348,8 @@ export default function Home() {
               </div>
 
               {/* beads.org */}
-              <div className="right_big_list_item border-b border-black/20 pb-4 mb-4">
-                <div className="flex justify-between items-center mb-2">
+              <div className="right_big_list_item border-t border-black mb-4">
+                <div className="flex justify-between items-center py-2 border-b border-black">
                   <a href="https://beads.org" target="_blank" className="domain_link text-xs uppercase tracking-wider text-black font-[family-name:var(--font-geist-mono)]">
                     beads.org
                   </a>
@@ -365,7 +365,7 @@ export default function Home() {
                     </div>
                     <span className="text-sm text-black font-[family-name:var(--font-geist-mono)]">$70.000</span>
                   </div>
-                  <div className="border-l border-black/20 pl-4">
+                  <div className="border-l border-black pl-4">
                     <span className="text-[10px] uppercase tracking-wider text-black/60 font-[family-name:var(--font-geist-mono)]">subscription (first year)</span>
                     <span className="text-sm text-black font-[family-name:var(--font-geist-mono)] block">$950/month</span>
                   </div>
@@ -373,8 +373,8 @@ export default function Home() {
               </div>
 
               {/* smug.com */}
-              <div className="right_big_list_item border-b border-black/20 pb-4 mb-4">
-                <div className="flex justify-between items-center mb-2">
+              <div className="right_big_list_item border-t border-black mb-4">
+                <div className="flex justify-between items-center py-2 border-b border-black">
                   <a href="https://smug.com" target="_blank" className="domain_link text-xs uppercase tracking-wider text-black font-[family-name:var(--font-geist-mono)]">
                     smug.com
                   </a>
@@ -390,7 +390,7 @@ export default function Home() {
                     </div>
                     <span className="text-sm text-black font-[family-name:var(--font-geist-mono)]">$50.000</span>
                   </div>
-                  <div className="border-l border-black/20 pl-4">
+                  <div className="border-l border-black pl-4">
                     <span className="text-[10px] uppercase tracking-wider text-black/60 font-[family-name:var(--font-geist-mono)]">subscription (first year)</span>
                     <span className="text-sm text-black font-[family-name:var(--font-geist-mono)] block">$750/month</span>
                   </div>
@@ -399,7 +399,7 @@ export default function Home() {
 
               {/* publisher.net */}
               <div className="right_big_list_item">
-                <div className="flex justify-between items-center mb-2">
+                <div className="flex justify-between items-center mb-2 pt-2">
                   <a href="https://publisher.net" target="_blank" className="domain_link text-xs uppercase tracking-wider text-black font-[family-name:var(--font-geist-mono)]">
                     publisher.net
                   </a>
@@ -415,7 +415,7 @@ export default function Home() {
                     </div>
                     <span className="text-sm text-black font-[family-name:var(--font-geist-mono)]">$40.000</span>
                   </div>
-                  <div className="border-l border-black/20 pl-4">
+                  <div className="border-l border-black pl-4">
                     <span className="text-[10px] uppercase tracking-wider text-black/60 font-[family-name:var(--font-geist-mono)]">subscription (first year)</span>
                     <span className="text-sm text-black font-[family-name:var(--font-geist-mono)] block">$650/month</span>
                   </div>
@@ -433,8 +433,8 @@ export default function Home() {
             </div>
             <div className="bg-[#ebe8e3] p-4">
               {/* airways.net */}
-              <div className="right_big_list_item border-b border-black/20 pb-4 mb-4">
-                <div className="flex justify-between items-center mb-2">
+              <div className="right_big_list_item border-t border-black mb-4">
+                <div className="flex justify-between items-center py-2 border-b border-black">
                   <a href="https://airways.net" target="_blank" className="domain_link text-xs uppercase tracking-wider text-black font-[family-name:var(--font-geist-mono)]">
                     airways.net
                   </a>
@@ -450,7 +450,7 @@ export default function Home() {
                     </div>
                     <span className="text-sm text-black font-[family-name:var(--font-geist-mono)]">$30.000</span>
                   </div>
-                  <div className="border-l border-black/20 pl-4">
+                  <div className="border-l border-black pl-4">
                     <span className="text-[10px] uppercase tracking-wider text-black/60 font-[family-name:var(--font-geist-mono)]">subscription (first year)</span>
                     <span className="text-sm text-black font-[family-name:var(--font-geist-mono)] block">$550/month</span>
                   </div>
@@ -458,8 +458,8 @@ export default function Home() {
               </div>
 
               {/* womensports.com */}
-              <div className="right_big_list_item border-b border-black/20 pb-4 mb-4">
-                <div className="flex justify-between items-center mb-2">
+              <div className="right_big_list_item border-t border-black mb-4">
+                <div className="flex justify-between items-center py-2 border-b border-black">
                   <a href="https://womensports.com" target="_blank" className="domain_link text-xs uppercase tracking-wider text-black font-[family-name:var(--font-geist-mono)]">
                     womensports.com
                   </a>
@@ -475,7 +475,7 @@ export default function Home() {
                     </div>
                     <span className="text-sm text-black font-[family-name:var(--font-geist-mono)]">$30.000</span>
                   </div>
-                  <div className="border-l border-black/20 pl-4">
+                  <div className="border-l border-black pl-4">
                     <span className="text-[10px] uppercase tracking-wider text-black/60 font-[family-name:var(--font-geist-mono)]">subscription (first year)</span>
                     <span className="text-sm text-black font-[family-name:var(--font-geist-mono)] block">$550/month</span>
                   </div>
@@ -483,8 +483,8 @@ export default function Home() {
               </div>
 
               {/* advertisement.net */}
-              <div className="right_big_list_item border-b border-black/20 pb-4 mb-4">
-                <div className="flex justify-between items-center mb-2">
+              <div className="right_big_list_item border-t border-black mb-4">
+                <div className="flex justify-between items-center py-2 border-b border-black">
                   <a href="https://advertisement.net" target="_blank" className="domain_link text-xs uppercase tracking-wider text-black font-[family-name:var(--font-geist-mono)]">
                     advertisement.net
                   </a>
@@ -500,7 +500,7 @@ export default function Home() {
                     </div>
                     <span className="text-sm text-black font-[family-name:var(--font-geist-mono)]">$30.000</span>
                   </div>
-                  <div className="border-l border-black/20 pl-4">
+                  <div className="border-l border-black pl-4">
                     <span className="text-[10px] uppercase tracking-wider text-black/60 font-[family-name:var(--font-geist-mono)]">subscription (first year)</span>
                     <span className="text-sm text-black font-[family-name:var(--font-geist-mono)] block">$550/month</span>
                   </div>
@@ -508,8 +508,8 @@ export default function Home() {
               </div>
 
               {/* publication.net */}
-              <div className="right_big_list_item border-b border-black/20 pb-4 mb-4">
-                <div className="flex justify-between items-center mb-2">
+              <div className="right_big_list_item border-t border-black mb-4">
+                <div className="flex justify-between items-center py-2 border-b border-black">
                   <a href="https://publication.net" target="_blank" className="domain_link text-xs uppercase tracking-wider text-black font-[family-name:var(--font-geist-mono)]">
                     publication.net
                   </a>
@@ -525,7 +525,7 @@ export default function Home() {
                     </div>
                     <span className="text-sm text-black font-[family-name:var(--font-geist-mono)]">$10.000</span>
                   </div>
-                  <div className="border-l border-black/20 pl-4">
+                  <div className="border-l border-black pl-4">
                     <span className="text-[10px] uppercase tracking-wider text-black/60 font-[family-name:var(--font-geist-mono)]">subscription (first year)</span>
                     <span className="text-sm text-black font-[family-name:var(--font-geist-mono)] block">$250/month</span>
                   </div>
@@ -534,7 +534,7 @@ export default function Home() {
 
               {/* e-dogs.com */}
               <div className="right_big_list_item">
-                <div className="flex justify-between items-center mb-2">
+                <div className="flex justify-between items-center mb-2 pt-2">
                   <a href="https://e-dogs.com" target="_blank" className="domain_link text-xs uppercase tracking-wider text-black font-[family-name:var(--font-geist-mono)]">
                     e-dogs.com
                   </a>
@@ -550,7 +550,7 @@ export default function Home() {
                     </div>
                     <span className="text-sm text-black font-[family-name:var(--font-geist-mono)]">$10.000</span>
                   </div>
-                  <div className="border-l border-black/20 pl-4">
+                  <div className="border-l border-black pl-4">
                     <span className="text-[10px] uppercase tracking-wider text-black/60 font-[family-name:var(--font-geist-mono)]">subscription (first year)</span>
                     <span className="text-sm text-black font-[family-name:var(--font-geist-mono)] block">$250/month</span>
                   </div>
@@ -565,7 +565,7 @@ export default function Home() {
         <div className="container mx-auto px-4 max-w-7xl">
           <div className="big_title__item bg-[#ebe8e3] py-32 md:py-48 lg:py-64 px-8 flex flex-col items-center justify-center text-center">
             <p className="big_title__item_text text-3xl md:text-4xl lg:text-5xl text-black font-[family-name:var(--font-playfair)] leading-relaxed mb-4">
-              Didn't find the right name?
+              Didn&apos;t find the right name?
             </p>
             <p className="big_title__subtitle text-xs uppercase tracking-wider text-black/60 font-[family-name:var(--font-geist-mono)] mb-8">
               Subscribe to get new names first
