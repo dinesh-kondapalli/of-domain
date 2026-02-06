@@ -1,0 +1,241 @@
+@import "tailwindcss";
+
+/* JGS Font Face */
+@font-face {
+  font-family: "jgs";
+  src: url("/Jgs-SingleLine.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* MontaguSlab Font Face */
+@font-face {
+  font-family: "MontaguSlab";
+  src: url("/MontaguSlab-VariableFont.ttf") format("truetype");
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
+  --background: #ffffff;
+  --foreground: #000000;
+  --font-playfair: "MontaguSlab", serif;
+  --font-geist-mono: "jgs", monospace;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #ffffff;
+    --foreground: #000000;
+  }
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: auto;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: "jgs", Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+}
+
+/* ASCII Animation Styles */
+[id^="animASCII_"]:not([id^="animASCII_scroller"]) {
+  font-family: "jgs", monospace;
+  position: sticky;
+  top: 0;
+  z-index: -1;
+}
+
+[id^="animASCII_scroller"] {
+  display: block;
+  height: 6650px;
+}
+
+#nonASCIIwrapper {
+  background-color: white;
+}
+
+/* Content container */
+.content-container {
+  position: relative;
+  width: 100%;
+  min-height: 100vh;
+}
+
+.content-section {
+  position: relative;
+  width: 100%;
+}
+
+/* Hero section */
+section.hero {
+  padding: 256px 0;
+  text-align: center;
+}
+
+section.hero h1 {
+  font-family: "MontaguSlab";
+  font-size: 160px;
+  line-height: 160px;
+  font-weight: 400;
+  color: #000000;
+  margin-bottom: 25px;
+  letter-spacing: -3px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+section.hero p {
+  font-family: "jgs";
+  font-size: 18px;
+  line-height: 20px;
+  font-weight: 400;
+  letter-spacing: 0px;
+  color: #000000;
+  text-transform: uppercase;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-tap-highlight-color: transparent;
+  user-select: none;
+}
+
+/* Footer */
+footer {
+  background: #f5f3ec;
+  padding-bottom: 8px;
+}
+
+footer .wrap {
+  padding: 256px 0;
+  text-align: center;
+}
+
+footer .footer__title {
+  font-family: "MontaguSlab";
+  font-size: 160px;
+  line-height: 1;
+  font-weight: 400;
+  color: #000000;
+  text-transform: none;
+  letter-spacing: -3px;
+  margin-bottom: 4px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+footer p {
+  font-family: "jgs";
+  font-size: 18px;
+  line-height: 20px;
+  font-weight: 400;
+  color: #000000;
+  text-transform: uppercase;
+  text-decoration: none;
+  margin-bottom: 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: block;
+}
+
+/* Mobile optimization */
+@media (max-width: 768px) {
+  [id^="animASCII_scroller"] {
+    height: 3325px;
+  }
+
+  section.hero {
+    padding-top: 96px;
+  }
+
+  section.hero h1 {
+    font-size: 120px;
+    line-height: 120px;
+    margin-bottom: 12px;
+  }
+
+  section.hero p {
+    font-size: 18px;
+    line-height: 18px;
+  }
+
+  footer .wrap {
+    padding: 128px 0;
+  }
+
+  footer .footer__title {
+    font-size: 120px;
+    line-height: 120px;
+    margin-bottom: 16px;
+  }
+
+  footer p {
+    font-size: 18px;
+    line-height: 22px;
+  }
+}
+
+/* iOS Safari specific fixes */
+@supports (-webkit-touch-callout: none) {
+  html,
+  body {
+    -webkit-text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    position: relative;
+  }
+
+  body {
+    min-height: -webkit-fill-available;
+    overflow-x: hidden;
+    -webkit-overflow-scrolling: touch;
+    overscroll-behavior: contain;
+  }
+
+  /* iOS Safari animation performance fixes */
+  [id^="animASCII_"] {
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    -webkit-perspective: 1000;
+    perspective: 1000;
+    will-change: transform;
+  }
+
+  * {
+    touch-action: manipulation;
+  }
+}
+
+/* Hide scrollbar but allow scrolling */
+::-webkit-scrollbar {
+  width: 0;
+  background: transparent;
+}
+
+/* Selection styling */
+::selection {
+  background: #f4bb40;
+  color: #000000;
+}
