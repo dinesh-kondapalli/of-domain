@@ -183,252 +183,252 @@ export default function Home() {
                 </p>
               </div>
               <div className="bg-[#ebe8e3] p-4">
-                {/* top100.com */}
+                 {/* top100.com */}
                 <div className="right_big_list_item border-t border-black mb-4">
-                  <div className="flex justify-between items-center py-2 border-b border-black">
+                  <div className="flex justify-between items-center py-1 border-b border-black hover:bg-yellow-300">
                     <a
                       href="https://top100.com"
                       target="_blank"
-                      className="domain_link text-xs uppercase tracking-wider text-black font-mono"
+                      className="domain_link text-[18px] text-black font-mono leading-[20px] hover:bg-yellow-300 px-1"
                     >
                       top100.com
                     </a>
-                    <button className="pitch_button text-[10px] uppercase tracking-wider text-black/60 font-mono">
+                    <button className="pitch_button text-[18px] text-black/60 font-mono leading-[20px]">
                       APPLY NOW
                     </button>
                   </div>
-                  <div className="grid grid-cols-2 gap-4">
+                  <div className="grid grid-cols-2 gap-2">
                     <div>
                       <div className="flex justify-between items-center">
-                        <span className="text-[10px] uppercase tracking-wider text-black/60 font-mono">
+                        <span className="text-[18px] text-black/60 font-mono leading-[20px]">
                           Buyout
                         </span>
                         <a
                           href="mailto:contact@of.domains"
-                          className="text-[10px] uppercase tracking-wider text-black/60 font-mono"
+                          className="text-[18px] text-black/60 font-mono leading-[20px]"
                         >
                           contact us
                         </a>
                       </div>
-                      <span className="text-sm text-black font-mono">
+                      <span className="text-[18px] text-black font-mono leading-[20px]">
                         $700.000
                       </span>
                     </div>
-                    <div className="border-l border-black pl-4">
-                      <span className="text-[10px] uppercase tracking-wider text-black/60 font-mono">
+                    <div className="pl-4">
+                      <span className="text-[18px] text-black/60 font-mono leading-[20px]">
                         subscription (first year)
                       </span>
-                      <span className="text-sm text-black font-mono block">
+                      <span className="text-[18px] text-black font-mono leading-[20px] block">
                         $7.700/month
                       </span>
                     </div>
                   </div>
                 </div>
 
-                {/* effect.com */}
+                 {/* effect.com */}
                 <div className="right_big_list_item border-t border-black mb-4">
-                  <div className="flex justify-between items-center py-2 border-b border-black">
+                  <div className="flex justify-between items-center py-1 border-b border-black hover:bg-yellow-300">
                     <a
                       href="https://effect.com"
                       target="_blank"
-                      className="domain_link text-xs uppercase tracking-wider text-black font-mono"
+                      className="domain_link text-[18px] text-black font-mono leading-[20px] hover:bg-yellow-300 px-1"
                     >
                       effect.com
                     </a>
-                    <button className="pitch_button text-[10px] uppercase tracking-wider text-black/60 font-mono">
+                    <button className="pitch_button text-[18px] text-black/60 font-mono leading-[20px]">
                       APPLY NOW
                     </button>
                   </div>
-                  <div className="grid grid-cols-2 gap-4">
+                  <div className="grid grid-cols-2 gap-2">
                     <div>
                       <div className="flex justify-between items-center">
-                        <span className="text-[10px] uppercase tracking-wider text-black/60 font-mono">
+                        <span className="text-[18px] text-black/60 font-mono leading-[20px]">
                           Buyout
                         </span>
                         <a
                           href="mailto:contact@of.domains"
-                          className="text-[10px] uppercase tracking-wider text-black/60 font-mono"
+                          className="text-[18px] text-black/60 font-mono leading-[20px]"
                         >
                           contact us
                         </a>
                       </div>
-                      <span className="text-sm text-black font-mono">
+                      <span className="text-[18px] text-black font-mono leading-[20px]">
                         $700.000
                       </span>
                     </div>
-                    <div className="border-l border-black pl-4">
-                      <span className="text-[10px] uppercase tracking-wider text-black/60 font-mono">
+                    <div className="pl-4">
+                      <span className="text-[18px] text-black/60 font-mono leading-[20px]">
                         subscription (first year)
                       </span>
-                      <span className="text-sm text-black font-mono block">
+                      <span className="text-[18px] text-black font-mono leading-[20px] block">
                         $7.700/month
                       </span>
                     </div>
                   </div>
                 </div>
 
-                {/* medclinic.com */}
+                 {/* medclinic.com */}
                 <div className="right_big_list_item border-t border-black mb-4">
-                  <div className="flex justify-between items-center py-2 border-b border-black">
+                  <div className="flex justify-between items-center py-1 border-b border-black hover:bg-yellow-300">
                     <a
                       href="https://medclinic.com"
                       target="_blank"
-                      className="domain_link text-xs uppercase tracking-wider text-black font-mono"
+                      className="domain_link text-[18px] text-black font-mono leading-[20px] hover:bg-yellow-300 px-1"
                     >
                       medclinic.com
                     </a>
-                    <button className="pitch_button text-[10px] uppercase tracking-wider text-black/60 font-mono">
+                    <button className="pitch_button text-[18px] text-black/60 font-mono leading-[20px]">
                       APPLY NOW
                     </button>
                   </div>
-                  <div className="grid grid-cols-2 gap-4">
+                  <div className="grid grid-cols-2 gap-2">
                     <div>
                       <div className="flex justify-between items-center">
-                        <span className="text-[10px] uppercase tracking-wider text-black/60 font-mono">
+                        <span className="text-[18px] text-black/60 font-mono leading-[20px]">
                           Buyout
                         </span>
                         <a
                           href="mailto:contact@of.domains"
-                          className="text-[10px] uppercase tracking-wider text-black/60 font-mono"
+                          className="text-[18px] text-black/60 font-mono leading-[20px]"
                         >
                           contact us
                         </a>
                       </div>
-                      <span className="text-sm text-black font-mono">
+                      <span className="text-[18px] text-black font-mono leading-[20px]">
                         $300.000
                       </span>
                     </div>
-                    <div className="border-l border-black pl-4">
-                      <span className="text-[10px] uppercase tracking-wider text-black/60 font-mono">
+                    <div className="pl-4">
+                      <span className="text-[18px] text-black/60 font-mono leading-[20px]">
                         subscription (first year)
                       </span>
-                      <span className="text-sm text-black font-mono block">
+                      <span className="text-[18px] text-black font-mono leading-[20px] block">
                         $3.600/month
                       </span>
                     </div>
                   </div>
                 </div>
 
-                {/* people.net */}
+                 {/* people.net */}
                 <div className="right_big_list_item border-t border-black mb-4">
-                  <div className="flex justify-between items-center py-2 border-b border-black">
+                  <div className="flex justify-between items-center py-1 border-b border-black hover:bg-yellow-300">
                     <a
                       href="https://people.net"
                       target="_blank"
-                      className="domain_link text-xs uppercase tracking-wider text-black font-mono"
+                      className="domain_link text-[18px] text-black font-mono leading-[20px] hover:bg-yellow-300 px-1"
                     >
                       people.net
                     </a>
-                    <button className="pitch_button text-[10px] uppercase tracking-wider text-black/60 font-mono">
+                    <button className="pitch_button text-[18px] text-black/60 font-mono leading-[20px]">
                       APPLY NOW
                     </button>
                   </div>
-                  <div className="grid grid-cols-2 gap-4">
+                  <div className="grid grid-cols-2 gap-2">
                     <div>
                       <div className="flex justify-between items-center">
-                        <span className="text-[10px] uppercase tracking-wider text-black/60 font-mono">
+                        <span className="text-[18px] text-black/60 font-mono leading-[20px]">
                           Buyout
                         </span>
                         <a
                           href="mailto:contact@of.domains"
-                          className="text-[10px] uppercase tracking-wider text-black/60 font-mono"
+                          className="text-[18px] text-black/60 font-mono leading-[20px]"
                         >
                           contact us
                         </a>
                       </div>
-                      <span className="text-sm text-black font-mono">
+                      <span className="text-[18px] text-black font-mono leading-[20px]">
                         $300.000
                       </span>
                     </div>
-                    <div className="border-l border-black pl-4">
-                      <span className="text-[10px] uppercase tracking-wider text-black/60 font-mono">
+                    <div className="pl-4">
+                      <span className="text-[18px] text-black/60 font-mono leading-[20px]">
                         subscription (first year)
                       </span>
-                      <span className="text-sm text-black font-mono block">
+                      <span className="text-[18px] text-black font-mono leading-[20px] block">
                         $3.600/month
                       </span>
                     </div>
                   </div>
                 </div>
 
-                {/* shows.net */}
+                 {/* shows.net */}
                 <div className="right_big_list_item border-t border-black mb-4">
-                  <div className="flex justify-between items-center py-2 border-b border-black">
+                  <div className="flex justify-between items-center py-1 border-b border-black hover:bg-yellow-300">
                     <a
                       href="https://shows.net"
                       target="_blank"
-                      className="domain_link text-xs uppercase tracking-wider text-black font-mono"
+                      className="domain_link text-[18px] text-black font-mono leading-[20px] hover:bg-yellow-300 px-1"
                     >
                       shows.net
                     </a>
-                    <button className="pitch_button text-[10px] uppercase tracking-wider text-black/60 font-mono">
+                    <button className="pitch_button text-[18px] text-black/60 font-mono leading-[20px]">
                       APPLY NOW
                     </button>
                   </div>
-                  <div className="grid grid-cols-2 gap-4">
+                  <div className="grid grid-cols-2 gap-2">
                     <div>
                       <div className="flex justify-between items-center">
-                        <span className="text-[10px] uppercase tracking-wider text-black/60 font-mono">
+                        <span className="text-[18px] text-black/60 font-mono leading-[20px]">
                           Buyout
                         </span>
                         <a
                           href="mailto:contact@of.domains"
-                          className="text-[10px] uppercase tracking-wider text-black/60 font-mono"
+                          className="text-[18px] text-black/60 font-mono leading-[20px]"
                         >
                           contact us
                         </a>
                       </div>
-                      <span className="text-sm text-black font-mono">
+                      <span className="text-[18px] text-black font-mono leading-[20px]">
                         $100.000
                       </span>
                     </div>
-                    <div className="border-l border-black pl-4">
-                      <span className="text-[10px] uppercase tracking-wider text-black/60 font-mono">
+                    <div className="pl-4">
+                      <span className="text-[18px] text-black/60 font-mono leading-[20px]">
                         subscription (first year)
                       </span>
-                      <span className="text-sm text-black font-mono block">
+                      <span className="text-[18px] text-black font-mono leading-[20px] block">
                         $1.300/month
                       </span>
                     </div>
                   </div>
                 </div>
 
-                {/* account.net */}
-                <div className="right_big_list_item">
-                  <div className="flex justify-between items-center mb-2 pt-2">
+                 {/* account.net */}
+                <div className="right_big_list_item border-t border-black mb-4">
+                  <div className="flex justify-between items-center py-1 border-b border-black hover:bg-yellow-300">
                     <a
                       href="https://account.net"
                       target="_blank"
-                      className="domain_link text-xs uppercase tracking-wider text-black font-mono"
+                      className="domain_link text-[18px] text-black font-mono leading-[20px] hover:bg-yellow-300 px-1"
                     >
                       account.net
                     </a>
-                    <button className="pitch_button text-[10px] uppercase tracking-wider text-black/60 font-mono">
+                    <button className="pitch_button text-[18px] text-black/60 font-mono leading-[20px]">
                       APPLY NOW
                     </button>
                   </div>
-                  <div className="grid grid-cols-2 gap-4">
+                  <div className="grid grid-cols-2 gap-2">
                     <div>
                       <div className="flex justify-between items-center">
-                        <span className="text-[10px] uppercase tracking-wider text-black/60 font-mono">
+                        <span className="text-[18px] text-black/60 font-mono leading-[20px]">
                           Buyout
                         </span>
                         <a
                           href="mailto:contact@of.domains"
-                          className="text-[10px] uppercase tracking-wider text-black/60 font-mono"
+                          className="text-[18px] text-black/60 font-mono leading-[20px]"
                         >
                           contact us
                         </a>
                       </div>
-                      <span className="text-sm text-black font-mono">
+                      <span className="text-[18px] text-black font-mono leading-[20px]">
                         $100.000
                       </span>
                     </div>
-                    <div className="border-l border-black pl-4">
-                      <span className="text-[10px] uppercase tracking-wider text-black/60 font-mono">
+                    <div className="pl-4">
+                      <span className="text-[18px] text-black/60 font-mono leading-[20px]">
                         subscription (first year)
                       </span>
-                      <span className="text-sm text-black font-mono block">
+                      <span className="text-[18px] text-black font-mono leading-[20px] block">
                         $1.300/month
                       </span>
                     </div>
@@ -447,40 +447,40 @@ export default function Home() {
               <div className="bg-[#ebe8e3] p-4">
                 {/* cels.com */}
                 <div className="right_big_list_item border-t border-black mb-4">
-                  <div className="flex justify-between items-center py-2 border-b border-black">
+                  <div className="flex justify-between items-center py-1 border-b border-black hover:bg-yellow-300">
                     <a
                       href="https://cels.com"
                       target="_blank"
-                      className="domain_link text-xs uppercase tracking-wider text-black font-mono"
+                      className="domain_link text-[18px] text-black font-mono leading-[20px] hover:bg-yellow-300 px-1"
                     >
                       cels.com
                     </a>
-                    <button className="pitch_button text-[10px] uppercase tracking-wider text-black/60 font-mono">
+                    <button className="pitch_button text-[18px] text-black/60 font-mono leading-[20px]">
                       APPLY NOW
                     </button>
                   </div>
-                  <div className="grid grid-cols-2 gap-4">
+                  <div className="grid grid-cols-2 gap-2">
                     <div>
                       <div className="flex justify-between items-center">
-                        <span className="text-[10px] uppercase tracking-wider text-black/60 font-mono">
+                        <span className="text-[18px] text-black/60 font-mono leading-[20px]">
                           Buyout
                         </span>
                         <a
                           href="mailto:contact@of.domains"
-                          className="text-[10px] uppercase tracking-wider text-black/60 font-mono"
+                          className="text-[18px] text-black/60 font-mono leading-[20px]"
                         >
                           contact us
                         </a>
                       </div>
-                      <span className="text-sm text-black font-mono">
+                      <span className="text-[18px] text-black font-mono leading-[20px]">
                         $70.000
                       </span>
                     </div>
-                    <div className="border-l border-black pl-4">
-                      <span className="text-[10px] uppercase tracking-wider text-black/60 font-mono">
+                    <div className="pl-4">
+                      <span className="text-[18px] text-black/60 font-mono leading-[20px]">
                         subscription (first year)
                       </span>
-                      <span className="text-sm text-black font-mono block">
+                      <span className="text-[18px] text-black font-mono leading-[20px] block">
                         $950/month
                       </span>
                     </div>
@@ -489,40 +489,40 @@ export default function Home() {
 
                 {/* beads.org */}
                 <div className="right_big_list_item border-t border-black mb-4">
-                  <div className="flex justify-between items-center py-2 border-b border-black">
+                  <div className="flex justify-between items-center py-1 border-b border-black hover:bg-yellow-300">
                     <a
                       href="https://beads.org"
                       target="_blank"
-                      className="domain_link text-xs uppercase tracking-wider text-black font-mono"
+                      className="domain_link text-[18px] text-black font-mono leading-[20px] hover:bg-yellow-300 px-1"
                     >
                       beads.org
                     </a>
-                    <button className="pitch_button text-[10px] uppercase tracking-wider text-black/60 font-mono">
+                    <button className="pitch_button text-[18px] text-black/60 font-mono leading-[20px]">
                       APPLY NOW
                     </button>
                   </div>
-                  <div className="grid grid-cols-2 gap-4">
+                  <div className="grid grid-cols-2 gap-2">
                     <div>
                       <div className="flex justify-between items-center">
-                        <span className="text-[10px] uppercase tracking-wider text-black/60 font-mono">
+                        <span className="text-[18px] text-black/60 font-mono leading-[20px]">
                           Buyout
                         </span>
                         <a
                           href="mailto:contact@of.domains"
-                          className="text-[10px] uppercase tracking-wider text-black/60 font-mono"
+                          className="text-[18px] text-black/60 font-mono leading-[20px]"
                         >
                           contact us
                         </a>
                       </div>
-                      <span className="text-sm text-black font-mono">
+                      <span className="text-[18px] text-black font-mono leading-[20px]">
                         $70.000
                       </span>
                     </div>
-                    <div className="border-l border-black pl-4">
-                      <span className="text-[10px] uppercase tracking-wider text-black/60 font-mono">
+                    <div className="pl-4">
+                      <span className="text-[18px] text-black/60 font-mono leading-[20px]">
                         subscription (first year)
                       </span>
-                      <span className="text-sm text-black font-mono block">
+                      <span className="text-[18px] text-black font-mono leading-[20px] block">
                         $950/month
                       </span>
                     </div>
@@ -531,40 +531,40 @@ export default function Home() {
 
                 {/* smug.com */}
                 <div className="right_big_list_item border-t border-black mb-4">
-                  <div className="flex justify-between items-center py-2 border-b border-black">
+                  <div className="flex justify-between items-center py-1 border-b border-black hover:bg-yellow-300">
                     <a
                       href="https://smug.com"
                       target="_blank"
-                      className="domain_link text-xs uppercase tracking-wider text-black font-mono"
+                      className="domain_link text-[18px] text-black font-mono leading-[20px] hover:bg-yellow-300 px-1"
                     >
                       smug.com
                     </a>
-                    <button className="pitch_button text-[10px] uppercase tracking-wider text-black/60 font-mono">
+                    <button className="pitch_button text-[18px] text-black/60 font-mono leading-[20px]">
                       APPLY NOW
                     </button>
                   </div>
-                  <div className="grid grid-cols-2 gap-4">
+                  <div className="grid grid-cols-2 gap-2">
                     <div>
                       <div className="flex justify-between items-center">
-                        <span className="text-[10px] uppercase tracking-wider text-black/60 font-mono">
+                        <span className="text-[18px] text-black/60 font-mono leading-[20px]">
                           Buyout
                         </span>
                         <a
                           href="mailto:contact@of.domains"
-                          className="text-[10px] uppercase tracking-wider text-black/60 font-mono"
+                          className="text-[18px] text-black/60 font-mono leading-[20px]"
                         >
                           contact us
                         </a>
                       </div>
-                      <span className="text-sm text-black font-mono">
+                      <span className="text-[18px] text-black font-mono leading-[20px]">
                         $50.000
                       </span>
                     </div>
-                    <div className="border-l border-black pl-4">
-                      <span className="text-[10px] uppercase tracking-wider text-black/60 font-mono">
+                    <div className="pl-4">
+                      <span className="text-[18px] text-black/60 font-mono leading-[20px]">
                         subscription (first year)
                       </span>
-                      <span className="text-sm text-black font-mono block">
+                      <span className="text-[18px] text-black font-mono leading-[20px] block">
                         $750/month
                       </span>
                     </div>
@@ -572,41 +572,41 @@ export default function Home() {
                 </div>
 
                 {/* publisher.net */}
-                <div className="right_big_list_item">
-                  <div className="flex justify-between items-center mb-2 pt-2">
+                <div className="right_big_list_item border-t border-black mb-4">
+                  <div className="flex justify-between items-center py-1 border-b border-black hover:bg-yellow-300">
                     <a
                       href="https://publisher.net"
                       target="_blank"
-                      className="domain_link text-xs uppercase tracking-wider text-black font-mono"
+                      className="domain_link text-[18px] text-black font-mono leading-[20px] hover:bg-yellow-300 px-1"
                     >
                       publisher.net
                     </a>
-                    <button className="pitch_button text-[10px] uppercase tracking-wider text-black/60 font-mono">
+                    <button className="pitch_button text-[18px] text-black/60 font-mono leading-[20px]">
                       APPLY NOW
                     </button>
                   </div>
-                  <div className="grid grid-cols-2 gap-4">
+                  <div className="grid grid-cols-2 gap-2">
                     <div>
                       <div className="flex justify-between items-center">
-                        <span className="text-[10px] uppercase tracking-wider text-black/60 font-mono">
+                        <span className="text-[18px] text-black/60 font-mono leading-[20px]">
                           Buyout
                         </span>
                         <a
                           href="mailto:contact@of.domains"
-                          className="text-[10px] uppercase tracking-wider text-black/60 font-mono"
+                          className="text-[18px] text-black/60 font-mono leading-[20px]"
                         >
                           contact us
                         </a>
                       </div>
-                      <span className="text-sm text-black font-mono">
+                      <span className="text-[18px] text-black font-mono leading-[20px]">
                         $40.000
                       </span>
                     </div>
-                    <div className="border-l border-black pl-4">
-                      <span className="text-[10px] uppercase tracking-wider text-black/60 font-mono">
+                    <div className="pl-4">
+                      <span className="text-[18px] text-black/60 font-mono leading-[20px]">
                         subscription (first year)
                       </span>
-                      <span className="text-sm text-black font-mono block">
+                      <span className="text-[18px] text-black font-mono leading-[20px] block">
                         $650/month
                       </span>
                     </div>
@@ -625,40 +625,40 @@ export default function Home() {
               <div className="bg-[#ebe8e3] p-4">
                 {/* airways.net */}
                 <div className="right_big_list_item border-t border-black mb-4">
-                  <div className="flex justify-between items-center py-2 border-b border-black">
+                  <div className="flex justify-between items-center py-1 border-b border-black hover:bg-yellow-300">
                     <a
                       href="https://airways.net"
                       target="_blank"
-                      className="domain_link text-xs uppercase tracking-wider text-black font-mono"
+                      className="domain_link text-[18px] text-black font-mono leading-[20px] hover:bg-yellow-300 px-1"
                     >
                       airways.net
                     </a>
-                    <button className="pitch_button text-[10px] uppercase tracking-wider text-black/60 font-mono">
+                    <button className="pitch_button text-[18px] text-black/60 font-mono leading-[20px]">
                       APPLY NOW
                     </button>
                   </div>
-                  <div className="grid grid-cols-2 gap-4">
+                  <div className="grid grid-cols-2 gap-2">
                     <div>
                       <div className="flex justify-between items-center">
-                        <span className="text-[10px] uppercase tracking-wider text-black/60 font-mono">
+                        <span className="text-[18px] text-black/60 font-mono leading-[20px]">
                           Buyout
                         </span>
                         <a
                           href="mailto:contact@of.domains"
-                          className="text-[10px] uppercase tracking-wider text-black/60 font-mono"
+                          className="text-[18px] text-black/60 font-mono leading-[20px]"
                         >
                           contact us
                         </a>
                       </div>
-                      <span className="text-sm text-black font-mono">
+                      <span className="text-[18px] text-black font-mono leading-[20px]">
                         $30.000
                       </span>
                     </div>
-                    <div className="border-l border-black pl-4">
-                      <span className="text-[10px] uppercase tracking-wider text-black/60 font-mono">
+                    <div className="pl-4">
+                      <span className="text-[18px] text-black/60 font-mono leading-[20px]">
                         subscription (first year)
                       </span>
-                      <span className="text-sm text-black font-mono block">
+                      <span className="text-[18px] text-black font-mono leading-[20px] block">
                         $550/month
                       </span>
                     </div>
@@ -667,40 +667,40 @@ export default function Home() {
 
                 {/* womensports.com */}
                 <div className="right_big_list_item border-t border-black mb-4">
-                  <div className="flex justify-between items-center py-2 border-b border-black">
+                  <div className="flex justify-between items-center py-1 border-b border-black hover:bg-yellow-300">
                     <a
                       href="https://womensports.com"
                       target="_blank"
-                      className="domain_link text-xs uppercase tracking-wider text-black font-mono"
+                      className="domain_link text-[18px] text-black font-mono leading-[20px] hover:bg-yellow-300 px-1"
                     >
                       womensports.com
                     </a>
-                    <button className="pitch_button text-[10px] uppercase tracking-wider text-black/60 font-mono">
+                    <button className="pitch_button text-[18px] text-black/60 font-mono leading-[20px]">
                       APPLY NOW
                     </button>
                   </div>
-                  <div className="grid grid-cols-2 gap-4">
+                  <div className="grid grid-cols-2 gap-2">
                     <div>
                       <div className="flex justify-between items-center">
-                        <span className="text-[10px] uppercase tracking-wider text-black/60 font-mono">
+                        <span className="text-[18px] text-black/60 font-mono leading-[20px]">
                           Buyout
                         </span>
                         <a
                           href="mailto:contact@of.domains"
-                          className="text-[10px] uppercase tracking-wider text-black/60 font-mono"
+                          className="text-[18px] text-black/60 font-mono leading-[20px]"
                         >
                           contact us
                         </a>
                       </div>
-                      <span className="text-sm text-black font-mono">
+                      <span className="text-[18px] text-black font-mono leading-[20px]">
                         $30.000
                       </span>
                     </div>
-                    <div className="border-l border-black pl-4">
-                      <span className="text-[10px] uppercase tracking-wider text-black/60 font-mono">
+                    <div className="pl-4">
+                      <span className="text-[18px] text-black/60 font-mono leading-[20px]">
                         subscription (first year)
                       </span>
-                      <span className="text-sm text-black font-mono block">
+                      <span className="text-[18px] text-black font-mono leading-[20px] block">
                         $550/month
                       </span>
                     </div>
@@ -709,40 +709,40 @@ export default function Home() {
 
                 {/* advertisement.net */}
                 <div className="right_big_list_item border-t border-black mb-4">
-                  <div className="flex justify-between items-center py-2 border-b border-black">
+                  <div className="flex justify-between items-center py-1 border-b border-black hover:bg-yellow-300">
                     <a
                       href="https://advertisement.net"
                       target="_blank"
-                      className="domain_link text-xs uppercase tracking-wider text-black font-mono"
+                      className="domain_link text-[18px] text-black font-mono leading-[20px] hover:bg-yellow-300 px-1"
                     >
                       advertisement.net
                     </a>
-                    <button className="pitch_button text-[10px] uppercase tracking-wider text-black/60 font-mono">
+                    <button className="pitch_button text-[18px] text-black/60 font-mono leading-[20px]">
                       APPLY NOW
                     </button>
                   </div>
-                  <div className="grid grid-cols-2 gap-4">
+                  <div className="grid grid-cols-2 gap-2">
                     <div>
                       <div className="flex justify-between items-center">
-                        <span className="text-[10px] uppercase tracking-wider text-black/60 font-mono">
+                        <span className="text-[18px] text-black/60 font-mono leading-[20px]">
                           Buyout
                         </span>
                         <a
                           href="mailto:contact@of.domains"
-                          className="text-[10px] uppercase tracking-wider text-black/60 font-mono"
+                          className="text-[18px] text-black/60 font-mono leading-[20px]"
                         >
                           contact us
                         </a>
                       </div>
-                      <span className="text-sm text-black font-mono">
+                      <span className="text-[18px] text-black font-mono leading-[20px]">
                         $30.000
                       </span>
                     </div>
-                    <div className="border-l border-black pl-4">
-                      <span className="text-[10px] uppercase tracking-wider text-black/60 font-mono">
+                    <div className="pl-4">
+                      <span className="text-[18px] text-black/60 font-mono leading-[20px]">
                         subscription (first year)
                       </span>
-                      <span className="text-sm text-black font-mono block">
+                      <span className="text-[18px] text-black font-mono leading-[20px] block">
                         $550/month
                       </span>
                     </div>
@@ -751,40 +751,40 @@ export default function Home() {
 
                 {/* publication.net */}
                 <div className="right_big_list_item border-t border-black mb-4">
-                  <div className="flex justify-between items-center py-2 border-b border-black">
+                  <div className="flex justify-between items-center py-1 border-b border-black hover:bg-yellow-300">
                     <a
                       href="https://publication.net"
                       target="_blank"
-                      className="domain_link text-xs uppercase tracking-wider text-black font-mono"
+                      className="domain_link text-[18px] text-black font-mono leading-[20px] hover:bg-yellow-300 px-1"
                     >
                       publication.net
                     </a>
-                    <button className="pitch_button text-[10px] uppercase tracking-wider text-black/60 font-mono">
+                    <button className="pitch_button text-[18px] text-black/60 font-mono leading-[20px]">
                       APPLY NOW
                     </button>
                   </div>
-                  <div className="grid grid-cols-2 gap-4">
+                  <div className="grid grid-cols-2 gap-2">
                     <div>
                       <div className="flex justify-between items-center">
-                        <span className="text-[10px] uppercase tracking-wider text-black/60 font-mono">
+                        <span className="text-[18px] text-black/60 font-mono leading-[20px]">
                           Buyout
                         </span>
                         <a
                           href="mailto:contact@of.domains"
-                          className="text-[10px] uppercase tracking-wider text-black/60 font-mono"
+                          className="text-[18px] text-black/60 font-mono leading-[20px]"
                         >
                           contact us
                         </a>
                       </div>
-                      <span className="text-sm text-black font-mono">
+                      <span className="text-[18px] text-black font-mono leading-[20px]">
                         $10.000
                       </span>
                     </div>
-                    <div className="border-l border-black pl-4">
-                      <span className="text-[10px] uppercase tracking-wider text-black/60 font-mono">
+                    <div className="pl-4">
+                      <span className="text-[18px] text-black/60 font-mono leading-[20px]">
                         subscription (first year)
                       </span>
-                      <span className="text-sm text-black font-mono block">
+                      <span className="text-[18px] text-black font-mono leading-[20px] block">
                         $250/month
                       </span>
                     </div>
@@ -792,41 +792,41 @@ export default function Home() {
                 </div>
 
                 {/* e-dogs.com */}
-                <div className="right_big_list_item">
-                  <div className="flex justify-between items-center mb-2 pt-2">
+                <div className="right_big_list_item border-t border-black mb-4">
+                  <div className="flex justify-between items-center py-1 border-b border-black hover:bg-yellow-300">
                     <a
                       href="https://e-dogs.com"
                       target="_blank"
-                      className="domain_link text-xs uppercase tracking-wider text-black font-mono"
+                      className="domain_link text-[18px] text-black font-mono leading-[20px] hover:bg-yellow-300 px-1"
                     >
                       e-dogs.com
                     </a>
-                    <button className="pitch_button text-[10px] uppercase tracking-wider text-black/60 font-mono">
+                    <button className="pitch_button text-[18px] text-black/60 font-mono leading-[20px]">
                       APPLY NOW
                     </button>
                   </div>
-                  <div className="grid grid-cols-2 gap-4">
+                  <div className="grid grid-cols-2 gap-2">
                     <div>
                       <div className="flex justify-between items-center">
-                        <span className="text-[10px] uppercase tracking-wider text-black/60 font-mono">
+                        <span className="text-[18px] text-black/60 font-mono leading-[20px]">
                           Buyout
                         </span>
                         <a
                           href="mailto:contact@of.domains"
-                          className="text-[10px] uppercase tracking-wider text-black/60 font-mono"
+                          className="text-[18px] text-black/60 font-mono leading-[20px]"
                         >
                           contact us
                         </a>
                       </div>
-                      <span className="text-sm text-black font-mono">
+                      <span className="text-[18px] text-black font-mono leading-[20px]">
                         $10.000
                       </span>
                     </div>
-                    <div className="border-l border-black pl-4">
-                      <span className="text-[10px] uppercase tracking-wider text-black/60 font-mono">
+                    <div className="pl-4">
+                      <span className="text-[18px] text-black/60 font-mono leading-[20px]">
                         subscription (first year)
                       </span>
-                      <span className="text-sm text-black font-mono block">
+                      <span className="text-[18px] text-black font-mono leading-[20px] block">
                         $250/month
                       </span>
                     </div>
@@ -871,39 +871,39 @@ export default function Home() {
           </div>
         </section>
 
-        <footer className="footer content-section bg-[#f5f2ed] py-16">
+        <footer className="footer content-section bg-[#f5f2ed] py-60">
           <div className="container mx-auto px-4 max-w-7xl">
             <div className="footer__item flex flex-col items-center text-center">
-              <p className="footer__title text-6xl md:text-7xl lg:text-8xl text-black mb-4 font-serif">
+              <p className="footer__title text-[160px] text-black font-normal font-serif leading-[160px]">
                 Open Field
               </p>
-              <p className="text-xs uppercase tracking-wider text-black font-mono">
+              <p className="text-[18px] text-black font-normal font-mono leading-[20px]">
                 We turn premium domains
               </p>
-              <p className="text-xs uppercase tracking-wider text-black mb-12 font-mono">
+              <p className="text-[18px] text-black font-normal font-mono leading-[20px] mb-12">
                 into startup assets
               </p>
               <div className="flex flex-col items-center gap-2 mb-8">
                 <a
                   href="https://coda.io/d/_dqu9AptdRB6/Terms-Conditions_suN26eAf"
-                  className="text-xs uppercase tracking-wider text-black font-mono hover:underline"
+                  className="text-[18px] text-black font-normal font-mono leading-[20px] hover:underline"
                 >
                   terms and conditions
                 </a>
                 <a
                   href="https://coda.io/d/_dqu9AptdRB6/Privacy-Policy_suXZyt8a"
-                  className="text-xs uppercase tracking-wider text-black font-mono hover:underline"
+                  className="text-[18px] text-black font-normal font-mono leading-[20px] hover:underline"
                 >
                   privacy policy
                 </a>
               </div>
               <a
                 href="mailto:contact@of.domains"
-                className="text-xs uppercase tracking-wider text-black mb-8 font-mono hover:underline"
+                className="text-[18px] text-black font-normal font-mono leading-[20px] hover:underline"
               >
                 contact@of.domains
               </a>
-              <p className="text-xs uppercase tracking-wider text-black font-mono">
+              <p className="text-[18px] text-black font-normal font-mono leading-[20px]">
                 2025, Open field domains, inc
               </p>
             </div>
